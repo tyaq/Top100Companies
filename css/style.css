@@ -1,0 +1,15 @@
+html {
+	-webkit-font-smoothing: antialiased;
+}
+
+svg {
+  font: 1em sans-serif;
+}
+
+text, p, table {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.dimmed {
+  opacity: 0.25;
+}
